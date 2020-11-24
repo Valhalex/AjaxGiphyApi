@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+    height: 100%; margin:0;
+}
+
+.header{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+.gifContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
