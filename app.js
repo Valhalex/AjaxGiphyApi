@@ -1,6 +1,3 @@
-const $gifContainer = $("#gifContainer");
-const $searchInput = $("#search");
+const APIKEY = "Vi4wVY7W9If1BtMXzbv7eQwpcqkdIb38";
 
-
-//create reuseable function to add gifs to the container
-function addGif ()
+document.addEventListener("DOMContentLoaded", )
